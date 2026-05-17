@@ -31,7 +31,7 @@ La aplicación consiste en un juego web 2048 ejecutado dentro de un contenedor D
 # Clonar Proyecto
 
 ```bash
-git clone https://github.com/TU_USUARIO/docker-2048.git
+git clone https://github.com/LuisMonsalve(si es necesario se cambia el usuario)/docker-2048.git
 cd docker-2048
 ```
 
